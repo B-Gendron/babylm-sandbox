@@ -1,1 +1,1 @@
-# A sandbow for training a language model built from scratch
+# A sandbow for training a PLM built from scratch
